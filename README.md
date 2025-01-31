@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **parvezmdemon@gmail.com**
 
-- ⚡ Fun fact **spending more time cleaning and wrangling data than you do building models !**
+- ⚡ Fun fact **''spending more time cleaning and wrangling data than you do building models !''**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
